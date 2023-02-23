@@ -13,6 +13,7 @@ I am a professional software engineer, a research scientist and a graphic design
 ## 📬 Get in touch
 
 - Linkedin :[http://linkedin.com/in/daniel-asante-5980a61a4]
+- Email :[adanielagyei@gmail.com]
 
 
 ## &#x1f4c8; My GitHub Stats
