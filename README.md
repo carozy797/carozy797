@@ -2,9 +2,9 @@
 
 Asante Daniel Agyei !! 👋🏻,
 
-I am a professional software engineer, a research scientist, data scientist and a designer. I have a great interest in AI. My name is Asante Daniel Agyei. CEO of Fausford Company(PHP, Python, Flutter/Dart, c++, java, SQL, c, openGL,  Latex, firebase, javascript, full stack web and mobile app development).
+I am a professional software engineer, a research scientist, data scientist and a designer. I have a great interest in AI. CEO of Fausford Company(PHP, Python, Flutter/Dart, c++, java, SQL, C,  Latex, Firebase, Javascript, Full stack web and mobile app development).
 
-## fausford is an IT and Health company that Build interactive softwares, provide medical health care and also client specifications
+## Fausford is an IT and Health company that Build interactive software, provides medical health care, and also client specifications
 ## with the help of Data Science and AI.
 
 
