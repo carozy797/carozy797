@@ -2,7 +2,7 @@
 
 Asante Daniel Agyei !! 👋🏻,
 
-I am a Research scientist ready interested in the areas of ML, NLP/LLM, Adversarial ML, Computer Systems, Privacy and Security. I am Co-founder of FausfordAI.
+I am a Research scientist interested in the areas of ML, NLP/LLM, Adversarial ML, Computer Systems, Privacy and Security. I am Co-founder of FausfordAI.
 
 ## FausfordAI is an AI and Health company that Build interactive software, provides medical health care using AI, and also client specifications
 ## with the help of Data Science and AI.
