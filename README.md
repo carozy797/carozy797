@@ -2,9 +2,9 @@
 
 Asante Daniel Agyei !! 👋🏻,
 
-I am a professional software engineer, a research scientist, data scientist and a designer. I have a great interest in AI. Co-founder of FausfordAI.
+I am a Research scientist ready interested in the areas of ML, NLP/LLM, Adversarial ML, Computer Systems, Privacy and Security. I am Co-founder of FausfordAI.
 
-## Fausford is an AI and Health company that Build interactive software, provides medical health care using AI, and also client specifications
+## FausfordAI is an AI and Health company that Build interactive software, provides medical health care using AI, and also client specifications
 ## with the help of Data Science and AI.
 
 
